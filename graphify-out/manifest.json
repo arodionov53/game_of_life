@@ -1,0 +1,242 @@
+{
+  ".claude/settings.local.json": {
+    "mtime": 1791306978.702698,
+    "seen": 1791380575.0422962,
+    "ast_hash": "8e1425d0da639668d7f019010cb0c368",
+    "semantic_hash": "8e1425d0da639668d7f019010cb0c368"
+  },
+  ".formatter.exs": {
+    "mtime": 1791305809.612707,
+    "seen": 1791380575.042298,
+    "ast_hash": "5929c731d5bca5967e0fb415b7fa9a01",
+    "semantic_hash": "5929c731d5bca5967e0fb415b7fa9a01"
+  },
+  "lib/game_of_life.ex": {
+    "mtime": 1791305809.6134706,
+    "seen": 1791380575.0423,
+    "ast_hash": "ee9e8ea0a719fdbc13ec2a88c8c83ce9",
+    "semantic_hash": "ee9e8ea0a719fdbc13ec2a88c8c83ce9"
+  },
+  "lib/game_of_life/application.ex": {
+    "mtime": 1791305809.613659,
+    "seen": 1791380575.0423,
+    "ast_hash": "fd1efcf3593a7f2596f64dac251e1cac",
+    "semantic_hash": "fd1efcf3593a7f2596f64dac251e1cac"
+  },
+  "lib/game_of_life/cli.ex": {
+    "mtime": 1791309299.2679276,
+    "seen": 1791380575.042301,
+    "ast_hash": "3c6607c95cf8fac2a2f8c68296406c10",
+    "semantic_hash": "3c6607c95cf8fac2a2f8c68296406c10"
+  },
+  "lib/game_of_life/engine.ex": {
+    "mtime": 1791306104.5806217,
+    "seen": 1791380575.042302,
+    "ast_hash": "c962a32d2ae9a4d29b7f23abf4128f90",
+    "semantic_hash": "c962a32d2ae9a4d29b7f23abf4128f90"
+  },
+  "lib/game_of_life/patterns.ex": {
+    "mtime": 1791306860.1794927,
+    "seen": 1791380575.042302,
+    "ast_hash": "5d454a2075478fa02e5b9d97ea4e0caa",
+    "semantic_hash": "5d454a2075478fa02e5b9d97ea4e0caa"
+  },
+  "lib/game_of_life/rle.ex": {
+    "mtime": 1791306292.4203606,
+    "seen": 1791380575.042303,
+    "ast_hash": "b7f33362f286f04442143b376ee58701",
+    "semantic_hash": "b7f33362f286f04442143b376ee58701"
+  },
+  "lib/game_of_life/ui/app.ex": {
+    "mtime": 1791309312.0345244,
+    "seen": 1791380575.042303,
+    "ast_hash": "b61d09c90f60819717d9b81430f3fbce",
+    "semantic_hash": "b61d09c90f60819717d9b81430f3fbce"
+  },
+  "lib/mix/tasks/game_of_life.ex": {
+    "mtime": 1791308931.4600961,
+    "seen": 1791380575.042304,
+    "ast_hash": "21d2d2596be7b714d3f6199bdf22c93a",
+    "semantic_hash": "21d2d2596be7b714d3f6199bdf22c93a"
+  },
+  "mix.exs": {
+    "mtime": 1791307135.1181402,
+    "seen": 1791380575.042305,
+    "ast_hash": "9838b1694bbb1df3d7879dbb4ebfa397",
+    "semantic_hash": "9838b1694bbb1df3d7879dbb4ebfa397"
+  },
+  "test/game_of_life/engine_test.exs": {
+    "mtime": 1791306264.0113063,
+    "seen": 1791380575.042305,
+    "ast_hash": "8d2d794d9acabfe851d2fd52c45381ff",
+    "semantic_hash": "8d2d794d9acabfe851d2fd52c45381ff"
+  },
+  "test/game_of_life/patterns_test.exs": {
+    "mtime": 1791306867.1045082,
+    "seen": 1791380575.042306,
+    "ast_hash": "96c684e01d313d4198cdb58633f5b367",
+    "semantic_hash": "96c684e01d313d4198cdb58633f5b367"
+  },
+  "test/game_of_life/rle_test.exs": {
+    "mtime": 1791306310.6736126,
+    "seen": 1791380575.042306,
+    "ast_hash": "e3ed9d99b55fdafafe026384e0813272",
+    "semantic_hash": "e3ed9d99b55fdafafe026384e0813272"
+  },
+  "test/game_of_life_test.exs": {
+    "mtime": 1791305809.6141717,
+    "seen": 1791380575.0423071,
+    "ast_hash": "60e81922cf97d728e51e17cad7ad1d70",
+    "semantic_hash": "60e81922cf97d728e51e17cad7ad1d70"
+  },
+  "test/test_helper.exs": {
+    "mtime": 1791305809.6140037,
+    "seen": 1791380575.042308,
+    "ast_hash": "7566dc08e72e565faebc0970e685df87",
+    "semantic_hash": "7566dc08e72e565faebc0970e685df87"
+  },
+  ".claude/commands/opsx/apply.md": {
+    "mtime": 1791303787.3314452,
+    "seen": 1791380575.042308,
+    "ast_hash": "a957d7a72774f092be25b23a915c89a7",
+    "semantic_hash": "a957d7a72774f092be25b23a915c89a7"
+  },
+  ".claude/commands/opsx/archive.md": {
+    "mtime": 1791303787.3323529,
+    "seen": 1791380575.042309,
+    "ast_hash": "87923b13180e4faa88b6a8a8d04b7751",
+    "semantic_hash": "87923b13180e4faa88b6a8a8d04b7751"
+  },
+  ".claude/commands/opsx/explore.md": {
+    "mtime": 1791303787.3309453,
+    "seen": 1791380575.042309,
+    "ast_hash": "734b2313c127092244077dcba14bf868",
+    "semantic_hash": "734b2313c127092244077dcba14bf868"
+  },
+  ".claude/commands/opsx/propose.md": {
+    "mtime": 1791303787.3326821,
+    "seen": 1791380575.04231,
+    "ast_hash": "a9570540fdf1a5d22073478705f797f5",
+    "semantic_hash": "a9570540fdf1a5d22073478705f797f5"
+  },
+  ".claude/commands/opsx/sync.md": {
+    "mtime": 1791303787.3321264,
+    "seen": 1791380575.042311,
+    "ast_hash": "026755855f5363483763efc5a2b73e15",
+    "semantic_hash": "026755855f5363483763efc5a2b73e15"
+  },
+  ".claude/commands/opsx/update.md": {
+    "mtime": 1791303787.3318386,
+    "seen": 1791380575.042311,
+    "ast_hash": "36ac8697688d9cb41e65b5b080d886cf",
+    "semantic_hash": "36ac8697688d9cb41e65b5b080d886cf"
+  },
+  ".claude/skills/openspec-apply-change/SKILL.md": {
+    "mtime": 1791303787.3279529,
+    "seen": 1791380575.042312,
+    "ast_hash": "fa7e3752d62f50f49b1850878d19a3d6",
+    "semantic_hash": "fa7e3752d62f50f49b1850878d19a3d6"
+  },
+  ".claude/skills/openspec-archive-change/SKILL.md": {
+    "mtime": 1791303787.3296103,
+    "seen": 1791380575.0423129,
+    "ast_hash": "35372ec57ea4487053b488b735fb8b4b",
+    "semantic_hash": "35372ec57ea4487053b488b735fb8b4b"
+  },
+  ".claude/skills/openspec-explore/SKILL.md": {
+    "mtime": 1791303787.3274496,
+    "seen": 1791380575.0423129,
+    "ast_hash": "07a7a581c2646e3c126b3d250a6962af",
+    "semantic_hash": "07a7a581c2646e3c126b3d250a6962af"
+  },
+  ".claude/skills/openspec-propose/SKILL.md": {
+    "mtime": 1791303787.3300624,
+    "seen": 1791380575.042314,
+    "ast_hash": "72acfb3a408ba86909c8c9a3854e2e22",
+    "semantic_hash": "72acfb3a408ba86909c8c9a3854e2e22"
+  },
+  ".claude/skills/openspec-sync-specs/SKILL.md": {
+    "mtime": 1791303787.3290687,
+    "seen": 1791380575.042314,
+    "ast_hash": "bb4faf9753898e815adac3f5641b0107",
+    "semantic_hash": "bb4faf9753898e815adac3f5641b0107"
+  },
+  ".claude/skills/openspec-update-change/SKILL.md": {
+    "mtime": 1791303787.3284965,
+    "seen": 1791380575.042315,
+    "ast_hash": "94f3f60985dcb07772bc27fb081c2f90",
+    "semantic_hash": "94f3f60985dcb07772bc27fb081c2f90"
+  },
+  "README.md": {
+    "mtime": 1791305809.6125374,
+    "seen": 1791380575.042316,
+    "ast_hash": "ba9503153804faf25057327dc236790b",
+    "semantic_hash": "ba9503153804faf25057327dc236790b"
+  },
+  "openspec/changes/archive/2026-10-06-conways-game-of-life/.openspec.yaml": {
+    "mtime": 1791305299.1780374,
+    "seen": 1791380575.042316,
+    "ast_hash": "197c7f487cb9689412d71a6b06a5eaee",
+    "semantic_hash": "197c7f487cb9689412d71a6b06a5eaee"
+  },
+  "openspec/changes/archive/2026-10-06-conways-game-of-life/design.md": {
+    "mtime": 1791305663.63048,
+    "seen": 1791380575.0423172,
+    "ast_hash": "61ead4c0e313e13c754aa56e17f93b17",
+    "semantic_hash": "61ead4c0e313e13c754aa56e17f93b17"
+  },
+  "openspec/changes/archive/2026-10-06-conways-game-of-life/proposal.md": {
+    "mtime": 1791305430.4121623,
+    "seen": 1791380575.0423172,
+    "ast_hash": "3a19b36890889b1f392707ec8b4ef5c2",
+    "semantic_hash": "3a19b36890889b1f392707ec8b4ef5c2"
+  },
+  "openspec/changes/archive/2026-10-06-conways-game-of-life/specs/rle-parser/spec.md": {
+    "mtime": 1791305575.2032688,
+    "seen": 1791380575.042318,
+    "ast_hash": "c2b8e5ea74b512c2a5d851a52cf00195",
+    "semantic_hash": "c2b8e5ea74b512c2a5d851a52cf00195"
+  },
+  "openspec/changes/archive/2026-10-06-conways-game-of-life/specs/simulation-engine/spec.md": {
+    "mtime": 1791305487.5785298,
+    "seen": 1791380575.042319,
+    "ast_hash": "8dedd5011918739ac56398ebcde419f6",
+    "semantic_hash": "8dedd5011918739ac56398ebcde419f6"
+  },
+  "openspec/changes/archive/2026-10-06-conways-game-of-life/specs/terminal-ui/spec.md": {
+    "mtime": 1791305577.8267226,
+    "seen": 1791380575.042319,
+    "ast_hash": "60c1a6dc7d1ec87475542d59d04e0f19",
+    "semantic_hash": "60c1a6dc7d1ec87475542d59d04e0f19"
+  },
+  "openspec/changes/archive/2026-10-06-conways-game-of-life/tasks.md": {
+    "mtime": 1791306990.9199436,
+    "seen": 1791380575.0423198,
+    "ast_hash": "07b4a16ff0dac0178d91ce3249cb7804",
+    "semantic_hash": "07b4a16ff0dac0178d91ce3249cb7804"
+  },
+  "openspec/config.yaml": {
+    "mtime": 1791303787.3331501,
+    "seen": 1791380575.0423198,
+    "ast_hash": "500a0a16229f8fd0848dc7cff85d21e9",
+    "semantic_hash": "500a0a16229f8fd0848dc7cff85d21e9"
+  },
+  "openspec/specs/rle-parser/spec.md": {
+    "mtime": 1791309629.513388,
+    "seen": 1791380575.042321,
+    "ast_hash": "2df6badc5d721943140698d9f42eb639",
+    "semantic_hash": "2df6badc5d721943140698d9f42eb639"
+  },
+  "openspec/specs/simulation-engine/spec.md": {
+    "mtime": 1791309616.8643932,
+    "seen": 1791380575.042321,
+    "ast_hash": "9da03a2f49fbc5c6c65fe333ea1e65b5",
+    "semantic_hash": "9da03a2f49fbc5c6c65fe333ea1e65b5"
+  },
+  "openspec/specs/terminal-ui/spec.md": {
+    "mtime": 1791309643.8765228,
+    "seen": 1791380575.042322,
+    "ast_hash": "cf2e60f856bf7bfb0207fb9eb2d7c590",
+    "semantic_hash": "cf2e60f856bf7bfb0207fb9eb2d7c590"
+  }
+}
